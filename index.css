@@ -1,0 +1,77 @@
+
+nav {
+    background-color: #f0f0f2;
+    padding-bottom : 4rem;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: flex-start;
+    padding-left: 0%;
+    
+    background-color: #212933;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+nav ul li {
+    display: grid;
+    font-size: 0.7rem;
+    padding : 5px 5px ;
+    
+}
+li {
+    color: white;
+}
+
+section h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+article {
+    display: inline-block;
+    background-color: #f0f0f2;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 31.5%;
+    height: 140px;
+    
+    
+}
+
+form {      
+    display: grid;
+    margin-top: 5rem;   
+    width: 100%;    
+    border-top: #212933;
+    border-radius: 1px ;
+    border-color: #212933;
+    border-width: 2px 0px 0px 0px;
+    border-style: solid;    
+}
+
+form h2 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    
+}
+form input {
+ 
+   
+   margin-left: 3rem;
+   margin-right: 3rem;
+   
+   
+}
+textarea {
+    
+    margin-left: 3rem;
+    margin-right: 3rem;
+   
+}
